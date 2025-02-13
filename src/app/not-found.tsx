@@ -1,10 +1,10 @@
 import Link from "next/link";
 
 export const metadata = {
-  title: 'Not Found - Welcome to CyberSecurity',
-  description: 'Not Found - CyberSecurity',
+  title: 'Not Found - Welcome to TU Nombre Aqui',
+  description: 'Not Found - Tu Descripcion aqui',
   image: '/og-image.png',
-  url: 'https://cybersec.com/',
+  url: 'https://tuwebaqui.com/',
 }
 
 const NotFound = () => {
